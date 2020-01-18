@@ -1,0 +1,21 @@
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 20px;
+   
+    border: 2px solid black;
+}
+#items{
+  border: 1px solid;
+}
+.btn{
+  float: right;
+}
+
+
+body{
+  padding: 20px;
+  border: 1px solid;
+  border-spacing: 10px;
+  border-width: 120px;
+}
